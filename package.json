@@ -1,0 +1,22 @@
+{
+  "name": "kactus-dream-theme",
+  "displayName": "Kactus Dream Theme",
+  "description": "A custom light color theme for vscode",
+  "version": "0.0.1",
+  "icon": "kactus_dream_theme_icon.png",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kactus Dream Theme",
+        "uiTheme": "vs",
+        "path": "./themes/kactus-dream-theme-color-theme.json"
+      }
+    ]
+  }
+}
