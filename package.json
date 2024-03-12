@@ -4,18 +4,25 @@
   "description": "A custom light color theme for vscode",
   "version": "0.1.1",
   "icon": "kactus_dream_theme_icon.png",
-	"publisher": "ColcaStudios",
+  "publisher": "ColcaStudios",
   "engines": {
     "vscode": "^1.87.0"
   },
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/colcastudios/Kactus-Dream-Theme"
-	},
+ "keywords": [
+	"Light theme",
+	"Best theme",
+	"Single theme",
+	"Dream theme",
+	"Dreamweaver"
+ ],
   "categories": [
     "Themes"
   ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colcastudios/Kactus-Dream-Theme"
+  },
   "contributes": {
     "themes": [
       {
