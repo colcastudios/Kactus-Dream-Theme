@@ -2,8 +2,14 @@
 
 All notable changes to the "kactus-dream-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Go to [Colca Studios](https://wwwcolcastudios.com/) for sugestion and comments about this theme.
 
-## [Unreleased]
+## [0.1.1]
+
+- Update terminal config
+- Update logo icon
+- Update package JSON
+
+## [0.0.1]
 
 - Initial release
