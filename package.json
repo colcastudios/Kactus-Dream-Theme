@@ -7,10 +7,10 @@
   "publisher": "ColcaStudios",
   "engines": {
     "vscode": "^1.87.0"
-  },
+},
  "keywords": [
 	"Light theme",
-	"Best theme",
+	"Dark theme",
 	"Single theme",
 	"Dream theme",
 	"Dreamweaver"
