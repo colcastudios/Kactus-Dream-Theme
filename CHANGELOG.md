@@ -4,13 +4,7 @@ All notable changes to the "kactus-dream-theme" extension will be documented in 
 
 Go to [Colca Studios](https://wwwcolcastudios.com/) for sugestion and comments about this theme.
 
-## [0.1.5]
-- Update html & css foreground color in Light Theme
-
-## [0.1.4]
-- Update terminal panel background in Light & Dark Themes
-
-## [0.1.3]
+## [0.2.0]
 - Update terminal panel background in Light & Dark Themes
 - Update package JSON
 
