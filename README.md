@@ -1,3 +1,3 @@
-This is repository with examples of simple Kactus Dream Theme for vscode. 
+This Kactus Dream Theme is simple designed for vscode.
 
 * Learn more about us at [Colcas Studios](https://www.colcastudios.com)!!
