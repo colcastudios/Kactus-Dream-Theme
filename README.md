@@ -2,12 +2,10 @@ This theme for Visual Studio Code is still in the development phase, so if you a
 
 ## Light Theme
 
-- Code editor
   ![Light Theme](/img/screenshot_light.jpg?raw=true "Light Theme")
 
 ## Dark Theme
 
-- Code editor
   ![Dark Theme](/img/screenshot_dark.jpg?raw=true "Dark Theme")
 
 Learn more about us at [Colcas Studios](https://www.colcastudios.com)!!
