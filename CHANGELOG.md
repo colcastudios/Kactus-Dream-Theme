@@ -5,7 +5,7 @@ All notable changes to the "kactus-dream-theme" extension will be documented in 
 Go to [Colca Studios](https://wwwcolcastudios.com/) for sugestion and comments about this theme.
 
 ## [0.2.1]
-- Fixed background color and text color of suggestions in Light Theme
+- Fixed background color and text color of suggestions at the editor, also fixed background of title in sidebar in Light Theme
 
 ## [0.2.0]
 - Update terminal panel background in Light & Dark Themes
