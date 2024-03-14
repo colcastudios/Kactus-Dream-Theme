@@ -6,7 +6,7 @@ Go to [Colca Studios](https://wwwcolcastudios.com/) for sugestion and comments a
 
 ## [0.2.1]
 - Fixed background color and text color of suggestions at the editor, also fixed background of title in sidebar in Light Theme.
-- Added theme screenshots
+- Added screenshots of the Themes.
 
 ## [0.2.0]
 - Update terminal panel background in Light & Dark Themes.
