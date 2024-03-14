@@ -4,6 +4,9 @@ All notable changes to the "kactus-dream-theme" extension will be documented in 
 
 Go to [Colca Studios](https://wwwcolcastudios.com/) for sugestion and comments about this theme.
 
+## [0.2.1]
+- Fixed background color of suggestions in Light Theme
+
 ## [0.2.0]
 - Update terminal panel background in Light & Dark Themes
 - Update package JSON
