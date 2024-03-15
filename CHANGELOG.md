@@ -4,6 +4,9 @@ All notable changes to the "kactus-dream-theme" extension will be documented in 
 
 Go to [Colca Studios](https://wwwcolcastudios.com/) for sugestion and comments about this color theme for vsCode.
 
+## [0.2.2]
+- Fixed background color and input border in settings panel.
+- 
 ## [0.2.1]
 - Fixed background color and text color of suggestions at the editor, also fixed background of title in sidebar in Light Theme.
 - Added screenshots of the Themes.
