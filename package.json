@@ -2,7 +2,7 @@
   "name": "kactus-dream-theme",
   "displayName": "Kactus Dream Theme",
   "description": "A custom Light/Dark color theme for vscode",
-  "version": "0.2.4",
+  "version": "1.0.0",
   "icon": "kactus_dream_theme_icon.png",
   "publisher": "ColcaStudios",
   "engines": {
