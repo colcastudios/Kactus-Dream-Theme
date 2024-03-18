@@ -1,4 +1,4 @@
-This theme for Visual Studio Code is still in the development phase, so if you are testing and would like to suggest something, feel free to let us know.
+This theme for Visual Studio Code was completely rebuilt from scratch taking as reference all the revisions prior to this one, especially in the Light version, so if you are using and would like to suggest something, feel free to let us know by our page.
 
 ## Light Theme
 
