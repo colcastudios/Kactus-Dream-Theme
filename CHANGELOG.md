@@ -4,6 +4,9 @@ All notable changes to the "kactus-dream-theme" extension will be documented in 
 
 Go to [Colca Studios](https://wwwcolcastudios.com/) for sugestion and comments about this color theme for vsCode.
 
+## [1.0.0]
+- Theme completely re-built from scratch taking as reference all the revisions prior to this one.
+
 ## [0.2.4]
 - Fixed background color in editor highlight of errors in the Light Theme.
 
