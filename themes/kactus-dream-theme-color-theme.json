@@ -56,10 +56,10 @@
     "sideBarSectionHeader.border": "#BFBFBF",
     "sideBarTitle.foreground": "#000000",
     "sideBar.dropBackground": "#F4E780",
-    "list.inactiveSelectionBackground": "#F4E780",
-    "list.inactiveSelectionForeground": "#000000",
-    "list.hoverBackground": "#F4E780",
-    "list.hoverForeground": "#000000",
+    "list.inactiveSelectionBackground": "#FEF9CE",
+    "list.inactiveSelectionForeground": "#2E2D06",
+    "list.hoverBackground": "#FEF9CE",
+    "list.hoverForeground": "#2E2D06",
     "list.activeSelectionBackground": "#F4E780",
     "list.activeSelectionForeground": "#000000",
     "tree.indentGuidesStroke": "#5a5a5a",
@@ -73,7 +73,7 @@
     "list.errorForeground": "#E64D49",
     "list.warningForeground": "#daaa01",
     "activityBar.foreground": "#ffffff",
-    "activityBar.background": "#680053",
+    "activityBar.background": "#680054",
     "activityBar.inactiveBackground": "#4D013E",
     "activityBar.inactiveForeground": "#cccccc",
     "activityBarBadge.foreground": "#000000",
@@ -86,29 +86,29 @@
     "sideBarTitle.foreground": "#000000",
     "sideBar.dropBackground": "#F4E780",
     "scrollbar.shadow": "#CCCCCC",
-    "tab.border": "#F0F0F0",
-    "tab.activeBackground": "#F6F6F6",
-    "tab.activeForeground": "#353535",
-    "tab.inactiveForeground": "#353535",
-    "tab.inactiveBackground": "#F0F0F0",
+    "tab.border": "#C1C1C1",
+    "tab.activeBackground": "#F8F8F8",
+    "tab.activeForeground": "#000000",
+    "tab.inactiveForeground": "#6A6A6A",
+    "tab.inactiveBackground": "#E7E7E7",
+    "tab.activeModifiedBorder": "#049F08",
+    "tab.inactiveModifiedBorder": "#93A1A1",
+    "tab.unfocusedActiveModifiedBorder": "#93A1A1",
+    "tab.unfocusedInactiveModifiedBorder": "#93A1A1",
     "editorGroup.border": "#F0F0F0",
     "editorGroup.background": "#F6F6F6",
     "editorGroupHeader.tabsBackground": "#F0F0F0",
     "editorGroupHeader.tabsBorder": "#F0F0F0",
     "editorGroupHeader.noTabsBackground": "#F0F0F0",
-    "tab.activeModifiedBorder": "#049F08",
-    "tab.inactiveModifiedBorder": "#93A1A1",
-    "tab.unfocusedActiveModifiedBorder": "#93A1A1",
-    "tab.unfocusedInactiveModifiedBorder": "#93A1A1",
     "editor.background": "#FBFBFB",
     "editor.foreground": "#353535",
     "editorCursor.foreground": "#90A7B2",
     "editorLineNumber.foreground": "#90A7B2",
     "editorLineNumber.activeForeground": "#353535",
-    "editor.selectionBackground": "#E0E0E0",
+    "editor.selectionBackground": "#EEE070",
     "editor.selectionHighlightBackground": "#FFC00130",
     "editor.wordHighlightBackground": "#FFC00130",
-    "editor.wordHighlightStrongBackground": "#FF960040",
+    "editor.wordHighlightStrongBackground": "#FF9600a9",
     "editor.findMatchBackground": "#93A1A16c",
     "editor.findMatchHighlightBackground": "#93a1a16c",
     "editor.findRangeHighlightBackground": "#7497a633",
@@ -334,7 +334,7 @@
       ],
       "settings": {
         "foreground": "#1BA301",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -469,7 +469,7 @@
       "scope": "keyword.operator.relational",
       "settings": {
         "foreground": "#1BA301",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -705,7 +705,7 @@
       "scope": ["entity.name.function"],
       "settings": {
         "foreground": "#E800A9",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -733,7 +733,7 @@
       ],
       "settings": {
         "foreground": "#1BA301",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -746,7 +746,7 @@
       ],
       "settings": {
         "foreground": "#1BA301",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -754,7 +754,7 @@
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
         "foreground": "#6F3EEB",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -1060,14 +1060,14 @@
         "source.elixir meta.module.elixir entity.name.class.elixir"
       ],
       "settings": {
-        "foreground": "#E800A9"
+        "foreground": "#0021EC"
       }
     },
     {
       "name": "Elixir Functions",
       "scope": "source.elixir entity.name.function",
       "settings": {
-        "foreground": "#E800A9"
+        "foreground": "#0021EC"
       }
     },
     {
@@ -1077,14 +1077,14 @@
         "source.elixir constant.other.keywords.elixir"
       ],
       "settings": {
-        "foreground": "#E800A9"
+        "foreground": "#0021EC"
       }
     },
     {
       "name": "Elixir String Punctuations",
       "scope": "source.elixir punctuation.definition.string",
       "settings": {
-        "foreground": "#E800A9"
+        "foreground": "#0021EC"
       }
     },
     {
@@ -1094,7 +1094,7 @@
         "source.elixir variable.other.readwrite.module.elixir punctuation.definition.variable.elixir"
       ],
       "settings": {
-        "foreground": "#E800A9"
+        "foreground": "#0021EC"
       }
     },
     {
@@ -1224,7 +1224,7 @@
       ],
       "settings": {
         "foreground": "#A8079F",
-        "fontStyle": "bold",
+        "fontStyle": "",
       }
     },
     {
@@ -1425,7 +1425,7 @@
         "markup.heading.setext.2.markdown"
       ],
       "settings": {
-        "foreground": "#E800A9"
+        "foreground": "#0021EC"
       }
     },
     {
@@ -1440,8 +1440,8 @@
       "name": "Markdown Bold",
       "scope": "markup.bold.markdown",
       "settings": {
-        "foreground": "#E800A9",
-        "fontStyle": "bold"
+        "foreground": "#0021EC",
+        "fontStyle": ""
       }
     },
     {
@@ -1722,14 +1722,14 @@
         "meta.decorator punctuation.decorator.tsx"
       ],
       "settings": {
-        "foreground": "#E800A9"
+        "foreground": "#0021EC"
       }
     },
     {
       "name": "TypeScript[React] Punctuation Decorators",
       "scope": "meta.tag.js meta.jsx.children.tsx",
       "settings": {
-        "foreground": "#E800A9"
+        "foreground": "#0021EC"
       }
     },
     {
