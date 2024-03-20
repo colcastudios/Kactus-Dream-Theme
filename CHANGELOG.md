@@ -6,7 +6,7 @@ Go to [Colca Studios](https://wwwcolcastudios.com/) for sugestion and comments a
 
 ## [1.0.1]
 - Fixed background color in editor highlight and sidebar current file active of the Light Theme.
-- Was remove font bold.
+- Also was remove bold font in Light Theme.
   
 ## [1.0.0]
 - Theme completely re-built from scratch taking as reference all the revisions prior to this one.
